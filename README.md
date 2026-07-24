@@ -1,6 +1,7 @@
 ### Hi, I'm Bhavya 👋
 
 I'm interested in applying data science and machine learning to healthcare and public health problems, from data pipelines to predictive modeling to auditing models for fairness before they're trusted with real decisions.
+🔗 Portfolio: https://bhavya-sri2.github.io/
 
 **What I'm working on**
 
